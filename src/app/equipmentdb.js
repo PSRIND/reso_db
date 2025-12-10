@@ -82,7 +82,7 @@ function renderList(list) {
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td class="equip-image">
-        <img src="../../public/assets/2.png" class="equip-img">
+        <img src="../../public/assets/3.png" class="equip-img">
       </td>
 
       <td class="equipment-name">${formatName(item.name)}</td>
